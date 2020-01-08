@@ -11,7 +11,7 @@ cat << EOM > /var/www/html/index.html
   <!-- BEGIN -->
   <center><img src="http://${PLACEHOLDER}/${WIDTH}/${HEIGHT}"></img></center>
   <center><h2>This Works!!!</h2></center>
-  Welcome to ${PREFIX}'s app. Replace this text with your own. 
+  What's up yo?
   <!-- END -->
   
   </div>
